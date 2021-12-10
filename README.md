@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Enkixx
 - 👀 I’m interested in cybersecurity and game dev.
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Terminal.
-- 💞️ I’m looking to collaborate on class projects.
-- 📫 How to reach me sean.barnell@gamil.com
+- 🏫 I am trained in HTML, CSS, JS, and Terminal.
+- 🌱 I’m currently learning node.js having completed my frontend development course.
+- 💞️ I’m looking to collaborate on small game projects and web development.
+- 📫 How to reach me sean.barnell@gmail.com
 
 <!---
 Enkixx/Enkixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
